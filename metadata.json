@@ -1,0 +1,8 @@
+{
+  "name": "Gebäudereinigung Pro",
+  "description": "Eine App zur Verwaltung von Gebäudereinigungsleistungen, inklusive Abnahmeprotokollen.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
