@@ -1,6 +1,6 @@
 
 import React, { useState, useCallback, useEffect } from 'react';
-import { Header } from './components/Header';
+import Header from './components/Header';
 import Dashboard from './pages/Dashboard';
 import AcceptanceForm from './pages/AcceptanceForm';
 import CustomersList from './pages/CustomersList';
